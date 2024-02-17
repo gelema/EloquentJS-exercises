@@ -1,4 +1,4 @@
-let caracter = "#"
+// Escriba un ciclo que haga siete llamadas a console.log para generar el siguiente triángulo:
 
 function trian(num) {
   for(let i = "#"; i.length <= num; i += "#" ){
@@ -7,3 +7,4 @@ function trian(num) {
 
 };
 console.log(trian(4))
+

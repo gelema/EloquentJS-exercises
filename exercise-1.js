@@ -6,5 +6,5 @@ function trian(num) {
   }
 
 };
-console.log(trian(4))
+console.log(trian(7))
 
